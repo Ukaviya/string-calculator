@@ -6,5 +6,5 @@ test ('for single number return 1',()=>{
     expect(add("1")).toBe(1);
 });
 test('for two numbers retur sum of them',()=>{
-    expect(add("1,2,3")).toBe(6);
+    expect(add("1\n2,3")).toBe(6);
 });
