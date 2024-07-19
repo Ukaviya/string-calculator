@@ -1,0 +1,1 @@
+This project is a simple implementation of a String Calculator using Test-Driven Development (TDD). The goal is to demonstrate the process of developing a feature by writing tests first and then implementing the minimal code required to pass those tests. This approach helps ensure that the code is reliable, maintainable, and testable.
